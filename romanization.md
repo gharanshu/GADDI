@@ -35,7 +35,7 @@
 | 'ch' | chaeL | beautiful |
 | 'j' | jang: | leg |
 | 'jh' | jhuddu | popcorn maker |
-| 't' | tachura | heated |
+| 't' | tacura | heated |
 | 'th' | brepth | Thursday |
 | 'd' | drakkaL | cow feed |
 | 'dh' | dhuu~r | fog |
@@ -45,15 +45,15 @@
 | 'Th' | Thok: | Hit |
 | 'D' | draD: | throw |
 | 'R' | haRaend: | foul odor |
-| 'Dh' | Dhaeraa | lopsided |
+| 'Dh' | Dheraa | lopsided |
 | 'Rh' | kaRhaai | embroidery |
 | 'N' | Tau~Naa | deaf |
 | 'p' | pakhlaa | stranger |
 | 'ph' | phaphruu | wild buckwheat leaves |
 | 'b' | balaaR | cat |
-| 'bh' | bhu~Na | happen |
+| 'bh' | bhuu~Na | happen |
 | 'm' | muRk: | head |
-| 'mh' | mhae | buffalo |
+| 'mh' | mhae~ | buffalo |
 | 'y' | kiyaa~ra | whose(formal or plural) |
 | 'r' | draa | river |
 | 'l' | luu~N | salt |
