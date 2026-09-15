@@ -9,5 +9,3 @@
 | see | hernA | hujNA |
 | smell | hi~ngNa | - |
 | touch | TU~NA | - |
-
-# Common words
