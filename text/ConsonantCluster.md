@@ -145,3 +145,4 @@
 | jàL.dA | scalding/hot |
 | dhàg.lA | sloped |
 | ghlaekkaR | throat | 
+| pyokA | childhood house (as oppose to house of in-laws hauraeRi) |
