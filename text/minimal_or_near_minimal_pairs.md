@@ -26,6 +26,10 @@
 | | mhei~yae | by the buffalo |
 | **11** | dassA | tell me |
 | | das^hA | show me |
+| **12** | haR: | rotten |
+| | hàR: | swept away (by a river) |
+| | har: | every/each | 
+| | hàr: | yes |
 
 ## examples
 
