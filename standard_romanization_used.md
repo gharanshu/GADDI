@@ -8,14 +8,20 @@
 |Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
 | 'a' | baDh | chop |
+| 'â' | dâs | show |
+| 'à' | bàr: | outside |
 | 'A' | A~ndA | egg |
-| 'i' | bin: | the act of getting pierced nose |
-| 'I' | hI~Na | snowing |
-| 'u' | hu~N | listen |
+| 'i' | bin: | pierced(nose/ear etc.) |
+| 'I' | hIt | cold |
+| 'u' | hunnA | glutton |
 | 'U' | hUrA | strong |
 | 'o' | koRi | leper |
-| 'aw' | paw | pausha month |
-| 'ae' | gharae | at home |
+| 'O' | hOr | more |
+| 'e' | e | this |
+| 'E' | hEr | hair |
+| 'ae' | khaer | disgust/awful odor |
+| 'aw' | haw~N | srAvaN |
+| 'ao' | pao | pausha |
 | 'au' | haura | FIL |
 | 'ei' | heil | Porcupine |
 | 'ai' | aiyA | Come |
@@ -50,14 +56,14 @@
 | 'N' | Tau~NA | deaf |
 | 'p' | pakhlA | stranger |
 | 'ph' | phaphrU | wild buckwheat leaves |
-| 'b' | balAR | cat |
+| 'b' | balAR/blARi | cat(male/female) |
 | 'bh' | bhU~NA | happen |
 | 'm' | muRk: | head |
 | 'mh' | mhae~ | buffalo |
-| 'y' | kiyA~ra | whose(formal or plural) |
+| 'y' | kiyA~rA | whose(formal or plural) |
 | 'r' | drA | river |
 | 'l' | lU~N | salt |
-| 'L' | taRaeLi | bullshit |
+| 'L' | taRELi | bullshit |
 | 's' | sot | sweep |
 | 'h' | hoTThi | stick |
 
