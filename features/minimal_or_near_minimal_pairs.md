@@ -30,6 +30,8 @@
 | | hàR: | swept away (by a river) |
 | | har: | every/each | 
 | | hàr: | yes |
+| **13** | bhaeR | sheep |
+| | BHaeR | fence |
 
 ## examples
 
