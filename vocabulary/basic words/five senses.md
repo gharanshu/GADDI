@@ -4,7 +4,7 @@
 
 | SENSE | ACTIVELY | PASSIVELY |
 | :--- | :--- | :--- |
-| hear/listen | kanaeNA | hu~N-nA |
+| hear/listen | kanaeNA | hu~NnA |
 | speak | kanhaeNA | - |
 | see | hernA | hujNA |
 | smell | hi~ngNa | - |

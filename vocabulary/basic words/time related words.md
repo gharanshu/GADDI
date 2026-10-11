@@ -3,18 +3,18 @@
 ## 1. **MONTHS**
 | Gaddi | Hindi |
 | :--- | :---- |
-| chait: | chaetr |
+| chaIt: | chaetr |
 | basAkh | vaeshAkh |
 | jETTh | JyeshTh |
 | hAR | AshAR |
-| haw~N | shrAvaN |
+| hao~N | shrAvaN |
 | bhAdru | bhAdrpad |
-| ahauj | ashvin | 
+| âhauj | ashvin | 
 | kAtti | kartik |
-| magayer | margshIrsh |
-| pào | paosh |
-| phAgaRa | phAlgun |
-| mAgh: | mAgh |
+| maghayer | margshIrsh |
+| pâo | paosh |
+| phAgRA | phAlgun |
+| mAgh | mAgh |
 
 ## 2. **DAYS**
 | Gaddi | English |
@@ -25,7 +25,7 @@
 | brepth: | Thursday |
 | hukkar | Friday |
 | haNcar | Saturday |
-| e-tAr | Sunday | 
+| EtAr | Sunday | 
 
 ## 3. **SEASONS**
 
@@ -46,8 +46,8 @@
 | :--- | :---- |
 | dhU~r: | fog |
 | barkhA | rain |
-| trA~nDA | torrential rain |
-| àhhaN | hailstones |
+| trA~DA | torrential rain |
+| âhhaN | hailstones |
 | gaRAkA | Thunder |
 | bijaLi | lightening |
 | ghAr: | landslide | 
@@ -75,19 +75,19 @@
 | hI | Yesterday |
 | aj: | Today |
 | dottae | Tomorrow |
-| proi | Day after tomorrow |
+| pasroi | Day after tomorrow |
 | nacroi | 2 days after tomorrow |
 | taem/bel/bakt/ghaRi | time <br>• add prefix *'ku'* to mean bad time<br>• add the prefix *'su'* for auspicious time | 
-| bhaeg: | morning |
+| bhEg: | morning |
 | sanj:/kaLel | evening |
 | dhaeRi | noon |
-| raat | night |
+| rAt | night |
 | nhaerA | darkness |
-| prEgRA | light |
+| prEgaRA | light |
 | nhuAri | breakfast |
 | kalAr/duphArI | lunch |
 | bElI | dinner |
-| parAr | the year before last year |
+| prAr | the year before last year |
 | par: | last year |
 | aho | this year |
 | agli | next year |

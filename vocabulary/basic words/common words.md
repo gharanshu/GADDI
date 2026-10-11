@@ -4,47 +4,47 @@
 
 | English | Gaddi |
 | :--- | :--- |
-| I | aun |
+| I | au~ |
 | you | tu |
 | we | asu |
 | this | e |
 | that | o |
 | who | kuN |
-| what | kAE |
-| not | na, mat |
-| all | sàb: |
-| many | matA |
+| what | kae |
+| not | na:, mat |
+| all | sâb: |
+| many | matâ |
 | one | ak: |
 | two | dui |
-| big | moTTA |
-| long | lammA |
-| small | haelkA |
-| woman | janAni |
-| man | màRd |
+| big | moTTâ |
+| long | lammâ |
+| small | haelkâ |
+| woman | janâni |
+| man | maRd |
 | person | jan:, maNu |
 | bird | pakkhru |
 | dog | kuttar |
 | louse | jU~ |
 | tree | rukh: |
-| seed | bI |
-| leaf | paTThA |
+| seed | bI: |
+| leaf | paTThâ |
 | flesh | cicci |
 | grease | tael: |
-| egg | A~nDA |
+| egg | A~nDâ |
 | horn | hing |
-| tail | chumth |
+| tail | chumTh |
 | hair | harAL |
 | head | haer |
 | ear | kan: |
-| eye | hakkhar |
-| nose | nàk: |
-| mouth | mù~ |
-| tooth | dànd: |
+| eye | hâkkhar |
+| nose | nak: |
+| mouth | mu~ |
+| tooth | dand: |
 | tongue | jib: |
-| nail | nhah | 
+| nail | nhâh | 
 | foot | chAR |
 | knee | jA~Nu |
-| hand | hàth: |
+| hand | hâth: |
 | belly | DhiD: |
 | neck/nape | gaLA/kAERi |
 | breast | cuccu |
@@ -54,8 +54,8 @@
 | eat | khA |
 | bite | chAp |
 | see | hEr |
-| hear | HuN: |
-| know | pàtA |
+| hear | huN: |
+| know | patA |
 | sleep | nindar/sUNA |
 | fly | uddarnA |
 | walk | ha~ndNA |
@@ -203,52 +203,52 @@
 | drabbad | meadow |
 | ghAr | landslide |
 | paddar | plain |
-| dha/g | slope |
+| dhag | slope |
 | kul: | irrigation canal |
 | bann: | oak |
-| dha/N | flock |
+| dhaN | flock |
 | maRhaenI | peppermint |
 | karEri | goldern himalyan raspberry tree |
-| a~nkhe | himalyan raspberry |
-| keinth | himalyan wild pear (black) |
-| granDA | knot |
+| a~kkhe | himalyan raspberry |
+| kaeinth | himalyan wild pear (black) |
+| granDâ | knot |
 | kasrOR | fiddlehead fern |
-| phAgRA | wild fig |
+| phAgRâ | wild fig |
 | cikkaR | mud |
 | ghiccaR | eye rheum |
-| aeiN: | stinging nettle |
-| seo | apple |
+| aè~N: | stinging nettle |
+| saeo | apple |
 | saphedA | peach |
-| khumAni | apricot |
+| khumàni | apricot |
 | ARu~ | wild peach |
 | cIr | wild apricot |
 | ciu | rhododentron |
-| Paeru | domestic animals usually reffered to sheep and goats |
+| paèru | domestic animals usually reffered to sheep and goats |
 | jOt | mountain peak |
 | gharAT | river powered flour mill |
-| ghrATi | the miller |
+| ghrâTTi | the miller |
 | camkaNu | morell mushroom |
 | aLsEt | lazy |
 | anman | stubborn |
-| kulaechNa | brat |
+| kulaechNâ | brat |
 | mhalEch | dirty |
 | kirk | disgust |
-| kurARA | hard |
-| ciphalA | slippery |
-| kU~LA | soft |
-| khudrA | rough |
-| sharp | paeinA |
-| khunnA | blunt |
-| tatta | warm |
-| jaLdA | scalding |
-| polA | light | 
-| duggA | deep |
-| sinnA | wet |
-| trakkURA | stale or fermented |
-| haRura | rotten |
-| bhanUra | broken |
-| banhUrA | tied |
-| baNurA | made |
-| hukdha/ngA | skinny |
+| kurARâ | hard |
+| ciphalâ | slippery |
+| kU~Lâ | soft |
+| khudrâ | rough |
+| paeinâ | sharp |
+| khunnâ | blunt |
+| tattâ | warm |
+| jaLdâ | scalding |
+| polâ | light | 
+| Duggâ | deep |
+| sinnâ | wet |
+| trakkURâ | stale or fermented |
+| haRurâ | rotten |
+| bhanUrâ | broken |
+| banhUrâ | tied |
+| baNurâ | made |
+| hukdhangâ | skinny |
 | chuTT | plump |
 | jakkar | simpleton |
