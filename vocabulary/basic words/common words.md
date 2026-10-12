@@ -284,6 +284,6 @@
 | burning sensation during fevers | jaLÀmâ |
 | daffodils(wild, paper white) | narku |
 | wild sweet violet | napALu |
-| white small stones | |
-| storage boxes made of hard wood (cuboids) or bamboo(barrel shaped) used to store grains |  |
+| white small stones | hukrà |
+| storage boxes made of hard wood (cuboids) or bamboo(barrel shaped) used to store grains | pERu |
 | shearing scissors | kAt |
