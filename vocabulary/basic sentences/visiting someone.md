@@ -1,15 +1,15 @@
 # INTRODUCTING YOURSELF
 | INFORMAL | FORMAL/PLURAL | TRANSLATION |
 | :--- | :--- | :--- |
-| namastE | --- | hello/hi |
-| merA nA~ ... hA | --- | my name is ... |
-| terA nA~ keA | tundA nA~ keA | what is your name |
-| tu kea kamanda | tusE kEn(kE hinnE) kardae | what are you doing |
-| tu kinnA hA |tusE kinnEn | how are you |
-| aye beh | aiyA behA | come sit |
-| hor huNA kinn'A tu? | hor hunA~ kinnEn tusE | tell me more, how are you |
-| aun tA khàrA ha, tu dàss | aun tA kharA ha, tusE dassA| I am fine, what about you |
-| kE dasNA bhaleya buci rheurA jo bhUNA so | kE dasNA bhaleyo buci rheurA jo bhuNA so | there's nothign to tell ,o kind person, everythign is going as it should/ go |
-| roTTi khai karE gA | roTTi khai karE gacchA | go after you have eaten food |
-| ta khari tA~ bhiri ailA | --- | so good then i will come again |
-| khari hao aiyae sajhAo/sajhao IyE | --- | okay yes come for the full day then |
+| namastae | --- | hello/hi |
+| mErA nA~ ... hâ | --- | my name is ... |
+| tErA nA~ keâ(ke hâ) | tundâ nA~ keâ | what is your name |
+| tu keâ kamandâ | tusae kAEnae(kAE hinnae) kamandae | what are you doing |
+| tu kinnA hâ |tusae kinnaen(kinnae hinn) | how are you |
+| aye bAEh | aiyA baehA | come sit |
+| hor huNA kinnA tu? | hor hunA~ kinnaen tusae | tell me more, how are you |
+| au~ tâ khârA, tu dâs: | au~ tA kharA ha, tusae dassâ| I am fine, what about you |
+| kae dasNâ bhaleyâ(bhaleyA for more emphasis) buci rheurâ jo bhUNâ so | kE dasNâ bhaleyo(bhaleyO for more emphasis) buci rheurâ jo bhUNâ so | there's nothign to tell ,o kind person, everythign is going as it should/ go |
+| roTTi khai karae gâ | roTTi khai karae gacchâ | go after you have eaten food |
+| tâ khari tA~ bhiri illâ | --- | so good then i will come again |
+| khari hâo aiyae sajhAo/sajhao | --- | okay yes then come for the evening(full day) |

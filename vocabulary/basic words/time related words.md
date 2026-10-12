@@ -3,17 +3,17 @@
 ## 1. **MONTHS**
 | Gaddi | Hindi |
 | :--- | :---- |
-| chaIt: | chaetr |
+| caIt: | chaetr |
 | basAkh | vaeshAkh |
-| jETTh | JyeshTh |
+| jaeTTh | JyeshTh |
 | hAR | AshAR |
 | hao~N | shrAvaN |
 | bhAdru | bhAdrpad |
-| âhauj | ashvin | 
+| ahauj | ashvin | 
 | kAtti | kartik |
 | maghayer | margshIrsh |
 | pâo | paosh |
-| phAgRA | phAlgun |
+| phAgRâ | phAlgun |
 | mAgh | mAgh |
 
 ## 2. **DAYS**
@@ -45,27 +45,27 @@
 | Gaddi | English |
 | :--- | :---- |
 | dhU~r: | fog |
-| barkhA | rain |
-| trA~DA | torrential rain |
-| âhhaN | hailstones |
-| gaRAkA | Thunder |
+| barkhâ | rain |
+| trA~Dâ | torrential rain |
+| ahhaN | hailstones |
+| gaRAkâ | Thunder |
 | bijaLi | lightening |
 | ghAr: | landslide | 
 | hillaN | earthquake |
 | hI~NA | snowing |
 | hiyU~ | snow |
 | ambar | sky |
-| byAr | wind |
+| biAr | wind |
 | hIt | cold |
 | baddaL | cloud |
 | dhup: | sunrays |
-| BarnA | to rain |
-| hI~NA | to snow |
-| nigghA | warm |
-| tattA | hot |
-| barkhA ri phui | raindrops |
+| Bàrnâ | to rain |
+| hI~Nâ | to snow |
+| nigghâ | warm |
+| tattâ | hot |
+| barkhâ ri phui | raindrops |
 | hums: | humidity |
-| hijNa | to get wet |
+| hijNâ | to get wet |
 
 ## 5. TIME
 | Gaddi | English |
@@ -73,21 +73,21 @@
 | nakarj | 2 days before yesterday |
 | parj | Day before yesterday |
 | hI | Yesterday |
-| aj: | Today |
-| dottae | Tomorrow |
-| pasroi | Day after tomorrow |
+| âj: | Today |
+| dottAE | Tomorrow |
+| paroi | Day after tomorrow |
 | nacroi | 2 days after tomorrow |
-| taem/bel/bakt/ghaRi | time <br>• add prefix *'ku'* to mean bad time<br>• add the prefix *'su'* for auspicious time | 
-| bhEg: | morning |
+| tAEm/bel/bakt/ghaRi | time <br>• add prefix *'ku'* to mean bad time<br>• add the prefix *'su'* for auspicious time | 
+| bhaeg: | morning |
 | sanj:/kaLel | evening |
-| dhaeRi | noon |
+| dhAERi | noon |
 | rAt | night |
-| nhaerA | darkness |
-| prEgaRA | light |
+| nhAErA | darkness |
+| praegRA | light |
 | nhuAri | breakfast |
 | kalAr/duphArI | lunch |
-| bElI | dinner |
-| prAr | the year before last year |
+| baelI | dinner |
+| parAr | the year before last year |
 | par: | last year |
 | aho | this year |
 | agli | next year |

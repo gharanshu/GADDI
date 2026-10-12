@@ -12,7 +12,7 @@
 | who | kuN |
 | what | kae |
 | not | na:, mat |
-| all | sâb: |
+| all | sab: |
 | many | matâ |
 | one | ak: |
 | two | dui |
@@ -29,19 +29,19 @@
 | seed | bI: |
 | leaf | paTThâ |
 | flesh | cicci |
-| grease | tael: |
+| grease | tael:/thindâ(oily) |
 | egg | A~nDâ |
 | horn | hing |
 | tail | chumTh |
 | hair | harAL |
 | head | haer |
 | ear | kan: |
-| eye | hâkkhar |
+| eye | hAkkhar |
 | nose | nak: |
-| mouth | mu~ |
-| tooth | dand: |
+| mouth | mu~/thoD: |
+| tooth | dând: |
 | tongue | jib: |
-| nail | nhâh | 
+| nail | nhâh: | 
 | foot | chAR |
 | knee | jA~Nu |
 | hand | hâth: |
@@ -51,46 +51,46 @@
 | heart | hIyA |
 | liver | kALjA |
 | drink | pi: |
-| eat | khA |
+| eat | khA/khâ(formal/informal) |
 | bite | chAp |
 | see | hEr |
 | hear | huN: |
-| know | patA |
-| sleep | nindar/sUNA |
-| fly | uddarnA |
+| know | patâ |
+| sleep | nindar/sUNâ |
+| fly | uddarnâ |
 | walk | ha~ndNA |
-| come | INA |
-| lie | lamI~NA |
-| sit | behNA |
-| stand | khaRiNA |
-| give | dINA |
-| say | kanhaeNA |
+| come | INâ |
+| lie | lamI~Nâ |
+| sit | behNâ |
+| stand | khaRiNâ |
+| give | dI~Nâ |
+| say | kanhAENâ |
 | sun | sUrj: |
-| moon | chanNi |
+| moon | canNi |
 | water | pANi |
-| rain | barkhA |
+| rain | barkhâ |
 | stone | nàR |
 | sand | rEt |
 | earth | dhart: |
+| pile | dharAt | 
 | cloud | baddaL |
 | smoke | dhU~ |
-| fire | Aj |
+| fire | Ag |
 | ash | dhUR |
 | burn | phuk: |
 | path | batt |
-| mountain | dhAr |
 | red | lAl |
-| green | nIlA |
+| green | nIlA(also for blue) |
 | yellow | piyU~LA |
-| white | hacchA |
-| black | kaLA |
+| white | hacchA/dhau~LA |
+| black | kALâ |
 | night | rAt |
-| hot | tattA |
+| hot | tattâ |
 | cold | hIt |
-| full | bharUrA |
-| new | nau~A |
+| full | bharÙrâ |
+| new | nau~â |
 | good | chAEL |
-| dry | hukkA |
+| dry | hukkâ |
 | name | nA~ |
 
 ## HOUSEHOLD ITEMS
@@ -102,94 +102,104 @@
 | rU~ | cotton |
 | un: | wool |
 | khind | woolen blankets |
+| chAdri | chAddar/mat |
 | dari | mat |
-| sarhANA | pillow |
+| sarhANâ | pillow |
 | racch: | lawn-loom |
-| seba | plastic rope |
-| jORa | fabric rope |
-| oDDhaN | clothes |
-| ghARa | dried corn stalks made into a conical shape to dry |
-| baeTThA/baeTThU~N | dried hay and dried hay piled up |
+| sEbâ | plastic rope |
+| jORâ | fabric rope |
+| òDDhaN | clothes |
+| ghARâ | dried corn stalks made into a conical shape to dry |
+| baeTThA/baeTThU~N | dried hay and dried hay piled up in a block |
 | s.halaet | slate to write on |
 | salaet | slate for roofing |
 | bhaoR | roof |
-| parawLu | small broom used to clean the chuL: |
-| bau~nkhari | broom |
-| liU~N | lipai |
+| paraoLu | small broom used to clean the chuL: |
+| bo~nkhri | broom |
+| liyU~N | lipai |
 | bhit/dAr | door |
-| galej | window |
+| galEj | window |
 | citkaNi | lock |
-| jandrA | lock |
+| jandrâ | lock |
 
 ## Bha~ndae: Utensils
 | Item | Meaning |
 | :--- | :--- |
-| gaggar | gagri |
-| dejkA | a big flat bottomed pot |
+| gAggar | gagri |
+| dejk â| a big flat bottomed pot |
 | trU~Nu | metallic pot |
 | tasLA | wide mouthed low depth vessel usually of metal |
 | baltoi | big mettalic pot like utensils used for making dhAm |
-| taitha | curved edged spatula not used for flipping |
-| palTA | spatula |
-| chimTa | tongs |
-| chAn.Ni | seive |
+| taithâ | curved edged spatula not used for flipping |
+| palTâ | spatula |
+| chimTâ | tongs |
+| chAnNi | strainer for wheat |
+| hup/châjj | seive to deshusk grains |
+| punNu | strainer for tea |
+| kaRchi | laddle |
+| chimchâ | spoon |
+| kaoli | bowl |
+| thALi | steel or brass(kUTi) plate |
+| paleT | plate (specifically for china which does not have the vertical boundary like thALi) |
+| galAs | cup |
+| jâg | jug (also short for jAgrâ - festival for deities) |
 
 ## Animals and insects
 | Item | Meaning |
 | :--- | :--- |
 | caccaR | flea |
-| mUhA | rat | 
+| mUhâ | rat | 
 | blAR | cat |
 | kuttar | dog |
 | brAg | tiger |
 | mirg: | leopard |
 | rikkh | bear |
 | heil: | porcupine |
-| chidi | sparrow |
+| chiRi | sparrow |
 | ghumTAri | myna |
-| trhiyu | barbet |
-| kIdguaLi | mantis |
-| sotaR | skink |
+| trhiu | barbet |
+| kIdguaLi | brown mantis |
+| sottaR | skink |
 | kIRA | snake |
 | dolkA | tadpole |
 | bhiyu~ | bumblebee |
-| trhaemoRi/droLA | bee |
-| anghaer | wasp |
+| trhAEmORi/dròLA/ga~N | bee |
+| anghEr | wasp |
 | mAkhri | housefly |
 | mAkhru | small flies |
-| TITA | grasshoper/locust |
+| TITâ | grasshoper/locust |
 | gA | cow |
-| mhae | buffalo |
+| mhÆ̀~ | buffalo |
 | dA~d | bull |
-| bak.kri | goat |
+| bakkri | goat |
 | challu | goat's kid |
 | bhaeR: | sheep |
-| urnu/urni | lamb |
-| jhoTa | male buffalo |
-| kattu | buffalo calf |
+| urnu~/urni | lamb |
+| jhoTâ | male buffalo |
+| kaTTu/kaTTi | buffalo calf |
 | bacchu | calf |
 | hal~goh | earthworm |
 | jokk: | leech |
 | chIRn | ticks |
 | bhacrARu | red mite |
 | pharguddi | butterfly |
-| paThni | moth |
-| Dhoru | weevil |
-| luRi | maggots |
+| paThNi | moth(cornborer moth) |
+| DhOru | weevil |
+| luRi | weevil larvae |
 | jU~ | louse | 
-| kAkhlA | rock agama |
-| garoR | spider |
+| kAkhlâ | rock agama |
+| garOR | spider |
 | jIjA | insect |
 | giddaR | fox |
 | kA | crow |
 | ghuggi | spotted dove |
 | khaccar | mule |
 | bAndar | monkey (rhesus) |
-| gaulA | himalyan grey langur |
-| nawLu | mongoose |
-| hakeRa | crab |
+| gaulâ | himalyan grey langur |
+| naoLu | mongoose |
+| hakERâ | crab |
 | pInj: | himalyan serow |
-| laR | ram | 
+| laR | mature ram | 
 | bicchu | scorpio |
 | kankhajUrA | centipede |
 | dhiklu | yellow throated marten |
@@ -200,34 +210,35 @@
 | gaddi | english |
 | :--- | :--- |
 | tannaN | ice |
-| drabbad | meadow |
+| drabbaR | meadow |
 | ghAr | landslide |
 | paddar | plain |
+| phaeTTâ | flat |
 | dhag | slope |
-| kul: | irrigation canal |
-| bann: | oak |
+| kùl: | irrigation canal |
+| ban: | oak |
 | dhaN | flock |
-| maRhaenI | peppermint |
+| maRhaeni | peppermint |
 | karEri | goldern himalyan raspberry tree |
-| a~kkhe | himalyan raspberry |
+| â~kkhe | himalyan raspberry |
 | kaeinth | himalyan wild pear (black) |
 | granDâ | knot |
 | kasrOR | fiddlehead fern |
-| phAgRâ | wild fig |
+| phAgRâ | wild fig(fegura) |
 | cikkaR | mud |
 | ghiccaR | eye rheum |
-| aè~N: | stinging nettle |
+| æ̀~N: | stinging nettle |
 | saeo | apple |
-| saphedA | peach |
-| khumàni | apricot |
+| saphEdA | peach |
+| khumâni | apricot |
 | ARu~ | wild peach |
 | cIr | wild apricot |
 | ciu | rhododentron |
-| paèru | domestic animals usually reffered to sheep and goats |
+| pæ̀ru | domestic animals usually reffered to sheep and goats |
 | jOt | mountain peak |
 | gharAT | river powered flour mill |
 | ghrâTTi | the miller |
-| camkaNu | morell mushroom |
+| camkNu | morell mushroom |
 | aLsEt | lazy |
 | anman | stubborn |
 | kulaechNâ | brat |
@@ -250,5 +261,29 @@
 | banhUrâ | tied |
 | baNurâ | made |
 | hukdhangâ | skinny |
-| chuTT | plump |
+| chuTT | plump(depening on context also mean pervert) |
 | jakkar | simpleton |
+| big rock | ghOR |
+| small rock (traditionally used to play gATTae - small rock game) | gATTâ |
+| flat stone to grind stuff on | baTTâ |
+| small round stone to grind on baTTâ | hil: |
+| mountain peak | jOt |
+| mountain peak | dhAr |
+| mountain face | phAT |
+| mountain face | bæ̀i |
+| peice of land where we have grass harvest for fodder storage in autumn(sloping area not having any step fields) | ghAlâ |
+| field(the horizontal land of step-fields) | bagRi |
+| fields(the vertical zone of each step) | bIR |
+| field(special for orchards) | natOR |
+| field(special for rice) | kòli |
+| big fire | bhâTh |
+| burn(turn on light or diya) | bAL |
+| support (use case: asking for hand to climb up somethign) | bAl |
+| turn on light/flashlight | jAL |
+| cuss for when something is not working | agjAL |
+| burning sensation during fevers | jaLÀmâ |
+| daffodils(wild, paper white) | narku |
+| wild sweet violet | napALu |
+| white small stones | |
+| storage boxes made of hard wood (cuboids) or bamboo(barrel shaped) used to store grains |  |
+| shearing scissors | kAt |
