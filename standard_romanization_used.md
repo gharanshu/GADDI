@@ -8,83 +8,136 @@
 4. guide for es e kEhNae [e k&#603;h&#627;æ:]
 
 ## Vowels
+
 |Symbol | Examples | Meaning | Apporximate IPA |
 | :--- | :--- | :--- | :--- |
 | a | baDh | chop | &#601; | 
 | â | gâ | go | &#593; |
-| A | bAr | day of the week | &#593;: |
 | i | khij | tiredness | &#618; | 
-| I | hIt | cold | i: |
 | u | hunnA | glutton | u |
-| U | hUrA | strong | u: |
 | e | e | this | e |
-| E | hEr | see | e: |
 | ae | haer | hair | &#603; |
 | AE | nhAErA | darkness | æ: |
 | o | obrA | lowermost floor of a house where animals are kept | o |
+| A | bAr | day of the week | &#593;: |
+| I | hIt | cold | i: |
+| U | hUrA | strong | u: |
+| E | hEr | see | e: |
 | O | hOr | more | ɔ: |
-| ai | aiyA | Come |
+
+## Dipthongs
+|Symbol | Examples | Meaning |
+| :--- | :--- | :--- |
+| au~ | au~ | I |
+| ai| aiyA | Come |
 | Ai | khAi | eat(formal or plural) |
+| oi | baltoi | a big brass vessel to make dhAm in |
+| Oi | chOi | wood gathering ceremony before marriage |
 | au | haurA | father-in-law |
 | ao | pao | pausha |
-| ei | heil | Porcupine |
-| ua | guAR | cowshed |
-| A~ | dA~d/A~dra | bull/intestines |
-| a~ | bha~gA | cross-eyed |
+| aei | haeIl | Porcupine |
+| uA | guAR | cowshed |
+| uA~ | suA~r | monday |
+| ui | bhui | happen(feminine) |
+| aeI | bhaeI | married |
+| iu~ | piu~LA | yellow |
+| aeo | saeo | apple |
+
+## Nasals
+|Symbol | Examples | Meaning |
+| :--- | :--- | :--- |
+| A~ | dA~d | bull |
+| u~ | hiyu~ | snow |
 | U~ | dhU~r | fog |
 | iU~ | hiU~ | snow |
 | Ei~ | hEi~ | fava beans |
 | EI~ | hEI~ | onomaetopiea for slap |
 | ae~ | mhae~ | buffalow|
-| à | bàr: | outside | pitch |
-| ì | bìn: | pierced(nose/ear etc.) | pitch | 
+
+#### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit bahir: got turned into bÀr which is different from bAr: day of the week and bàr: which means rain!
 
 ## CONSONANT CHART
 
-| | unvoiced unaspirated | unvoiced aspirated | voiced unaspirated | voiced aspirated | nasal | aspirated nasal | Approximant/lateral | Fricative/trill |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |:--- |
-| Velar | k | $k^h$ | g | $g^h$ | ng | - | - | - |
-| Palatal | c | $c^h$ | j | $j^h$ | ñ | - | y | - |
-| Retroflexes | T | $T^h$ | D | $D^h$ | N | - | L | R/$R^h$  |
-| Dental | t | $t^h$ | d | $d^h$ | n | $n^h$ | l  | r/s/sh/$s^h$ |
-| Labial | p | $p^h$ | b | $b^h$ | m | $m^h$ | - | h |
+### 1. The Plosives & Affricates
+
+| Place of Articulation | Unvoiced Unaspirated | Unvoiced Aspirated | Voiced Unaspirated | Voiced Aspirated |
+| :--- | :---: | :---: | :---: | :---: |
+| **Velar** | k | $k^h$ | g | $g^h$ |
+| **Palatalo-alveolar** | c | $c^h$ | j | $j^h$ |
+| **Retroflex** | T | $T^h$ | D | $D^h$ |
+| **Dental / Alveolar** | t | $t^h$ | d | $d^h$ |
+| **Bilabial** | p | $p^h$ | b | $b^h$ |
+
+### 2. The Nasals & Fricatives
+
+| Place of Articulation | Plain Nasal | Aspirated Nasal | Fricative | Aspirated Fricative |
+| :--- | :---: | :---: | :---: | :---: |
+| **Velar** | ng | - | - | - |
+| **Palatalo-alveolar** | ñ | - | sh | - |
+| **Retroflex** | N | - | - | - |
+| **Dental / Alveolar** | n | $n^h$ | s | $s^h$ |
+| **Bilabial** | m | $m^h$ | - | - |
+| **Glottal** | - | - | h | - |
+
+### 3. Approximants, Laterals, & Rhotics
+
+| Place of Articulation | Approximant | Plain Lateral | Aspirated Lateral | Plain Trill / Flap | Aspirated Flap |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Palatalo-alveolar** | y | - | - | - | - |
+| **Retroflex** | - | L | - | R | $R^h$ |
+| **Dental / Alveolar** | - | l | $l^h$ | r | $r^h$ |
 
 
-|Symbol | Examples | Meaning | 
+### 1. The Plosives & Affricates
+
+| Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
 | k | kâm: | work |
 | kh | khurk | itch |
 | g | gachUrA | went |
 | gh | ghA | injury |
-| ng | hing | horns |
 | c | caur | 4 |
 | ch | chAEL | beautiful |
 | j | jâng: | leg |
 | jh | jhuDDu | popcorn maker |
-| ñ | baiñyA | arms |
 | T | TArae | separate |
 | Th | Thok: | Hit |
 | D | draD: | throw |
 | Dh | DherA | lopsided |
-| N | Tao~NA | deaf |
-| L | bLA/taRaeLi | derogatory word for unmarried women/bullshit|
-| R | haRaend: | foul odor |
-| Rh | kaRhAi | embroidery |
 | t | tacUrA | heated |
 | th | brEpth | Thursday |
 | d | drakkaL | cow feed |
 | dh | dhU~r | fog |
-| n | naèr: | canal |
-| nh | nhAErA | darkness |
-| l | lU~N | salt |
-| r | drA | river |
-| s | sOt | sweep |
-| sh | phau~shu | vain |
-| $s^h$ | $s^haLaebA$ | moisture in walls in monsoon (sIlan) |
 | p | pâkhlA | stranger |
 | ph | phaphrU | wild buckwheat leaves |
 | b | blAR/blARi | cat(male/female) |
 | bh | bhU~NA | happen |
+
+### 2. The Nasals & Fricatives
+
+| Symbol | Examples | Meaning |
+| :--- | :--- | :--- |
+| ng | hing | horns |
+| ñ | baiñyA | arms |
+| sh | phau~shu | vain |
+| N | Tao~NA | deaf |
+| n | naèr: | canal |
+| nh | nhAErA | darkness |
+| s | sOt | sweep |
+| $s^h$ | $s^haLaebA$ | moisture in walls in monsoon (sIlan) |
 | m | muRk: | head |
 | mh | mhae~ | buffalo |
 | h | hoTThi | stick |
+
+### 3. Approximants, Laterals, & Rhotics
+
+| Symbol | Examples | Meaning |
+| :--- | :--- | :--- |
+| y | biyAraennâ | gusts of wind |
+| L | bLA/taRaeLi | derogatory word for unmarried women/bullshit |
+| R | haRaend: | foul odor |
+| Rh | kaRhAi | embroidery |
+| l | lU~N | salt |
+| lh | lhahhaN | garlic |
+| r | drA | river |
+| rh | rhaeurâ | left |
