@@ -47,9 +47,12 @@
 | :--- | :--- |
 | s^hlET | wooden board to write on using chalk in early schools |
 | s^haLaebâ | sIlan(damp wall) |
+| s^hAb | maths |
+| s^heli | female frnd |
 | das^hA | show |
 
-## **6** sh 
+
+## **6** sh (not a native phoneme words took from garA~is(lit. village inhabitants) a distinct groups from gaddis who speak with the sibilant "sh" but can intermarry freely in same castes)
 | gaddi | english | 
 | :--- | :--- |
 | tishAE | shoo! (for cats) |

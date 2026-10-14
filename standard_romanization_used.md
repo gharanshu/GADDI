@@ -54,7 +54,7 @@
 | EI~ | hEI~ | onomaetopiea for slap |
 | ae~ | mhae~ | buffalow|
 
-#### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit bahir: got turned into bÀr which is different from bAr: day of the week and bàr: which means rain!
+#### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit *bAhir:* got turned into *bÀr:* which is different from *bAr:* day of the week and *bàr:* which means rain!
 
 ## CONSONANT CHART
 
@@ -121,7 +121,7 @@
 | ñ | baiñyA | arms |
 | sh | phau~shu | vain |
 | N | Tao~NA | deaf |
-| n | naèr: | canal |
+| n | næ̀r: | canal |
 | nh | nhAErA | darkness |
 | s | sOt | sweep |
 | $s^h$ | $s^haLaebA$ | moisture in walls in monsoon (sIlan) |
