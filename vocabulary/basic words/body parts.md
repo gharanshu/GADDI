@@ -3,12 +3,15 @@
 | WORD | MEANING |
 | :--- | :--- |
 | hAkkhar(hAkhri) | Eye(s) |
+| ghiccaR | eye rheum |
 | kan: | ear(s) |
 | nak: | nose |
 | nakthUN(nakthU~NI) | nostril(s) |
+| buDDhi | dried snot in nose |
 | jib: | tongue |
 | matthA | forehead |
 | harAL | hair |
+| bapphâ | dandruff |
 | bhru~A | eyebrows |
 | khADDi | cheeks |
 | haer | head |
