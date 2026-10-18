@@ -39,6 +39,7 @@
 | trhiu | barbet |
 | kA | crow |
 | sOttaR | skink |
+| khaRpâ | big snake |
 | kIRâ | snake |
 | kAkhlâ | rock agama |
 | dOlkâ | tadpole |

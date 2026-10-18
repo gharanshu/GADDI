@@ -6,3 +6,4 @@
 | bahA~ |  rest |
 | khij | exhaust(tired) |
 | paThâmae/pAE~Thae mâri karae | cross legged/lotus pose | 
+| dhaRAm | stampede |

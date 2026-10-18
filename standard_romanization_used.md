@@ -42,6 +42,9 @@
 | aeI | bhaeI | married |
 | iu~ | piu~LA | yellow |
 | aeo | saeo | apple |
+| auâ | pauâ | alchohol |
+| Aiâ | pAiâ | 1/4th | 
+| aeoao | saeoao | to the apple |
 
 ## Nasals
 |Symbol | Examples | Meaning |
