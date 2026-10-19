@@ -57,7 +57,7 @@
 | EI~ | hEI~ | onomaetopiea for slap |
 | ae~ | mhae~ | buffalow|
 
-#### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit *bAhir:* got turned into *bÀr:* which is different from *bAr:* day of the week and *bàr:* which means rain!
+#### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit *bAhir:* got turned into *bÀr:* which is different from *bAr:* day of the week.
 
 ## CONSONANT CHART
 
@@ -87,7 +87,7 @@
 | Place of Articulation | Approximant | Plain Lateral | Aspirated Lateral | Plain Trill / Flap | Aspirated Flap |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Palatalo-alveolar** | y | - | - | - | - |
-| **Retroflex** | - | L | - | R | $R^h$ |
+| **Retroflex** | - | L | $L^h$ | R | $R^h$ |
 | **Dental / Alveolar** | - | l | $l^h$ | r | $r^h$ |
 
 
@@ -138,6 +138,7 @@
 | :--- | :--- | :--- |
 | y | biyAraennâ | gusts of wind |
 | L | bLA/taRaeLi | derogatory word for unmarried women/bullshit |
+| Lh | KÀLhi/kàLhâ ra mundh | panic/source of all problems | 
 | R | haRaend: | foul odor |
 | Rh | kaRhAi | embroidery |
 | l | lU~N | salt |
