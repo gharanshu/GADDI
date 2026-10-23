@@ -1,0 +1,23 @@
+gaddi: western pahadi dialect sal valley 
+1. so amm khanda(he mango eats - he eats mango )
+2. so amà khanda(from root amm + ha amà mango is, so is thrid person he/she/they/it remote deixis that person remote )
+3. tini amm khau (tini is also root for third person remote dexis along with so but for diff split version this means he ate mango as a matter of factely he ate a mango like he just ate a mango and i am saying saying saying it))
+4. tini amm khaura(he has eaten a mango (in his life atleast))
+5. tini amà khaura(he has eaten a mango (more emphatic version of tini amm khaura oh can you blv it hes eaten a mango! or simly recollecting near past me stating he ate an mango i saw him like if somewhat asked me what did he eat  i would use this or say why sint he hungry i would say he has already eaten a mango all this can be applied to last sentence also so eyah just emphatic difference i would say)
+6. tini dottae amm khaNa (dottae tommorow he tommorow mango will eat - he will eat a mango tom definitely)
+7. so amm khalla (he will eat mango most likely he should but i dont gaurantee if he will for sure )
+8. amm na khainda ( literally mango not able-to-eat pragmatics mango cannot be eaten weather its the ability of speaker or mango is bigger than universe and speakr cant finish it or its speakers will)
+9. amm na khaiNa ( litearlly mango not eat-will=not-happen pragmatics i wont be able to eat this mango more its not that i lack the ability its like i am already full or just not feeling it def diff form khainda which is about ability)
+10. amm khaila? (literally mango able-to-futrue = will i be able to eat mango?)
+11. amm kha (eat mango)
+12. amm khA (eat mango please for plural or formal)
+12.5 amm khA so (may he eat mango)
+13. amm khala (feed mango)
+14. amm khalA(plural of khala)
+15. amm khalàINa nIyae( mango able to feed not - i am unable to feed mangoes)
+16. amm khalaila (will i be able to feed them mango)
+17. amm khalau (did they feed you mango in near past)
+18. amm khalaura (did they feed you mango ever?)
+idk so many girls i cant even write them all 
+19. amm khANa? ( wanna eat mango) 
+

@@ -16,8 +16,8 @@
 | i | khij | tiredness | &#618; | 
 | u | hunnA | glutton | u |
 | e | e | this | e |
-| ae | haer | hair | &#603; |
-| AE | nhAErA | darkness | æ: |
+| æ | hær | hair | &#603; |
+| Æ | nhÆrA | darkness | æ: |
 | o | obrA | lowermost floor of a house where animals are kept | o |
 | A | bAr | day of the week | &#593;: |
 | I | hIt | cold | i: |
@@ -29,33 +29,35 @@
 |Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
 | au~ | au~ | I |
-| ai| aiyA | Come |
+| ae | ae | come |
+| ai| aiyA | Come(formal) |
 | Ai | khAi | eat(formal or plural) |
 | oi | baltoi | a big brass vessel to make dhAm in |
 | Oi | chOi | wood gathering ceremony before marriage |
 | au | haurA | father-in-law |
 | ao | pao | pausha |
-| aei | haeIl | Porcupine |
+| æi | hæìl | Porcupine |
 | uA | guAR | cowshed |
 | uA~ | suA~r | monday |
 | ui | bhui | happen(feminine) |
-| aeI | bhaeI | married |
-| iu~ | piu~LA | yellow |
-| aeo | saeo | apple |
+| ui~ | bhui~â | on the ground |
+| æI | bhæI | married |
+| iu~ | piu~Lâ | yellow |
+| æo | sæo | apple |
 | auâ | pauâ | alchohol |
 | Aiâ | pAiâ | 1/4th | 
-| aeoao | saeoao | to the apple |
+| æoao | sæoao | to the apple |
 
 ## Nasals
 |Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
 | A~ | dA~d | bull |
-| u~ | hiyu~ | snow |
+| u~ | hiu~ | snow |
 | U~ | dhU~r | fog |
-| iU~ | hiU~ | snow |
+| iU~ | hiUd~ | winter |
 | Ei~ | hEi~ | fava beans |
 | EI~ | hEI~ | onomaetopiea for slap |
-| ae~ | mhae~ | buffalow|
+| æ~ | mhæ~ | buffalow|
 
 #### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit *bAhir:* got turned into *bÀr:* which is different from *bAr:* day of the week.
 
