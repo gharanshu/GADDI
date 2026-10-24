@@ -13,10 +13,13 @@
 | **6.**  khANâ | will eat | tini amm: khANâ | he will eat mango | future fact |
 | **7.** khallâ | will eat | so amm: khallâ | he will eat mango | future hunch |
 | **8.** khεìndâ/khaìndâ | able to eat | mu~ thau~ amm: nâ khεìndε | I am unable to eat mango | I dislike them or am allergic to them |
-| **9.** | khεìNâ/khaìNâ | able to eat | mu~ thau~ amm: nâ khεìNâ | i wont be able to eat the mango | i don't want to right now/ i'm already full |
-| **10.** | khεìlâ/khaìlâ | mu~ thau~ amm: nâ khεìlâ | wont I be able to eat the mango | future question |
-| **11.** | khalâ | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
-| **12** | khεI | amm: khεI go  | i ate the mango | i had no control, impulsively or by a supernatural cause beyong my control |
+| **9.** khεìNâ/khaìNâ| able to eat | able to eat | mu~ thau~ amm: nâ khεìNâ | i wont be able to eat the mango | i don't want to right now/ i'm already full |
+| **10.** khεìlâ/khaìlâ | able to eat | mu~ thau~ amm: nâ khεìlâ | wont I be able to eat the mango | future question |
+| **11**  khεI |accidently eaten | amm: khεI go  | i ate the mango | i had no control, impulsively or by a supernatural cause beyong my control |
+| **12**  khAε | eat later | amm: khaε piccæNε | eat the mango some time later | future order or advice |
+| **13**  khANhA laurâ | is eating rn | amm: khANhA laura | mango is being eaten rn | am eating and will continue eating |
+| **14** khAi læ | eat later | amm: khAi læ piccæ | eat the mango later | advice |
+| **14.** khalâ | feed  | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
 | **extra spoken features** khandâ | eats | au~ àmâ khandâ | i am eating a mango | happening as i speak(amm: + hâ -> àmâ) |
 | khandi | eats | (so) amhìn khandi | (they) are eating mangoes | present, being described by an observed(amm: + hinn -> amhìn) |
 | khandε | eats | àmnæ khandε | they/he(formal) are eating the mango/mongoes | present action, plural or formal (amm: + hinnæ - àmnæ)|
