@@ -1,52 +1,48 @@
 # ROMANISATION
 
-#### This is the romanization standard i am using all throughtout this documentation project of ***GADDI*** language. 
+#### This is the romanization standard I am using all throughtout this documentation project of ***GADDI*** language. 
 
-1. **CAPITALS** are used for Retroflex Consonants
+1. **CAPITALS** are used for Retroflex Consonants or long vowels
 2. **~** symbol is used to show nasalization that is not implied
 3. **:** is used for short shwa sound at the end of words
-4. guide for es e kEhNae [e k&#603;h&#627;æ:]
+4. guide for e's e kæhNε 
 
 ## Vowels
 
 |Symbol | Examples | Meaning | Apporximate IPA |
 | :--- | :--- | :--- | :--- |
-| a | baDh | chop | &#601; | 
+| a | baDh: | chop | &#601; | 
 | â | gâ | go | &#593; |
-| i | khij | tiredness | &#618; | 
-| u | hunnA | glutton | u |
+| i | khij: | tiredness | &#618; | 
+| u | hunnâ | glutton | u |
 | e | e | this | e |
-| æ | hær | hair | &#603; |
-| Æ | nhÆrA | darkness | æ: |
-| o | obrA | lowermost floor of a house where animals are kept | o |
+| ε | hεr | hair | &#603; |
+| æ | nhærâ | darkness | ε: |
+| o | obrâ | lowermost floor of a house where animals are kept | o |
 | A | bAr | day of the week | &#593;: |
 | I | hIt | cold | i: |
-| U | hUrA | strong | u: |
+| U | HUrâ | strong | u: |
 | E | hEr | see | e: |
 | O | hOr | more | ɔ: |
 
 ## Dipthongs
 |Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
-| au~ | au~ | I |
 | ae | ae | come |
 | ai| aiyA | Come(formal) |
 | Ai | khAi | eat(formal or plural) |
-| oi | baltoi | a big brass vessel to make dhAm in |
-| Oi | chOi | wood gathering ceremony before marriage |
-| au | haurA | father-in-law |
+| oi | balToi | a big brass vessel to make dhAm in |
+| OI | chOI | wood gathering ceremony before marriage |
+| au | haurâ | father-in-law |
 | ao | pao | pausha |
-| æi | hæìl | Porcupine |
+| εi | hεìl | Porcupine |
 | uA | guAR | cowshed |
-| uA~ | suA~r | monday |
-| ui | bhui | happen(feminine) |
-| ui~ | bhui~â | on the ground |
-| æI | bhæI | married |
-| iu~ | piu~Lâ | yellow |
-| æo | sæo | apple |
+| ui | bhui | happen |
+| εI | bhεI | married |
+| εo | sεo | apple |
 | auâ | pauâ | alchohol |
 | Aiâ | pAiâ | 1/4th | 
-| æoao | sæoao | to the apple |
+| εoao | sεoao | to the apple |
 
 ## Nasals
 |Symbol | Examples | Meaning |
@@ -54,10 +50,14 @@
 | A~ | dA~d | bull |
 | u~ | hiu~ | snow |
 | U~ | dhU~r | fog |
+| âu~ | âu~ | I |
 | iU~ | hiUd~ | winter |
-| Ei~ | hEi~ | fava beans |
+| uA~ | suA~r | monday |
+| Ei~ | hEi~ | beans |
+| ui~ | bhui~yâ | on the ground |
 | EI~ | hEI~ | onomaetopiea for slap |
-| æ~ | mhæ~ | buffalow|
+| ε~ | mhε~ | buffalow|
+| iu~ | piu~Lâ | yellow |
 
 #### Every vowel can get a pitch stress if historic 'h' have been removed from middle of a word e.g. sanskrit *bAhir:* got turned into *bÀr:* which is different from *bAr:* day of the week.
 
@@ -82,7 +82,7 @@
 | **Retroflex** | N | - | - | - |
 | **Dental / Alveolar** | n | $n^h$ | s | $s^h$ |
 | **Bilabial** | m | $m^h$ | - | - |
-| **Glottal** | - | - | h | - |
+| **Glottal** | - | - | h | H |
 
 ### 3. Approximants, Laterals, & Rhotics
 
@@ -99,40 +99,41 @@
 | :--- | :--- | :--- |
 | k | kâm: | work |
 | kh | khurk | itch |
-| g | gachUrA | went |
+| g | gachUrâ | went |
 | gh | ghA | injury |
 | c | caur | 4 |
-| ch | chAEL | beautiful |
+| ch | chæL | beautiful |
 | j | jâng: | leg |
 | jh | jhuDDu | popcorn maker |
-| T | TArae | separate |
-| Th | Thok: | Hit |
-| D | draD: | throw |
-| Dh | DherA | lopsided |
-| t | tacUrA | heated |
+| T | TArε | separate |
+| Th | Thokk | Hit |
+| D | draD | throw |
+| Dh | DhErâ | lopsided |
+| t | tacUrâ | heated |
 | th | brEpth | Thursday |
 | d | drakkaL | cow feed |
 | dh | dhU~r | fog |
-| p | pâkhlA | stranger |
+| p | pakhlâ | stranger |
 | ph | phaphrU | wild buckwheat leaves |
 | b | blAR/blARi | cat(male/female) |
-| bh | bhU~NA | happen |
+| bh | bhU~Nâ | happen |
 
 ### 2. The Nasals & Fricatives
 
 | Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
 | ng | hing | horns |
-| ñ | baiñyA | arms |
+| ñ | baiñyâ | arms |
 | sh | phau~shu | vain |
-| N | Tao~NA | deaf |
+| N | Tao~Nâ | deaf |
 | n | næ̀r: | canal |
-| nh | nhAErA | darkness |
+| nh | nhærùrâ | turned dark |
 | s | sOt | sweep |
-| $s^h$ | $s^haLaebA$ | moisture in walls in monsoon (sIlan) |
+| $s^h$ | $s^haLaebâ$ | moisture in walls in monsoon (sIlan) |
 | m | muRk: | head |
-| mh | mhae~ | buffalo |
-| h | hoTThi | stick |
+| mh | mhæ̀~ | buffalo |
+| h | hAR | month of âshAR |
+| H | HAR | garden next to a home |
 
 # word hAR (garden next to home) and HAR the month of ashad have some difference in how h is pronounced same with hikkaR(peel) and HikkaR(chest)
 
@@ -140,12 +141,12 @@
 
 | Symbol | Examples | Meaning |
 | :--- | :--- | :--- |
-| y | biyAraennâ | gusts of wind |
-| L | bLA/taRaeLi | derogatory word for unmarried women/bullshit |
+| y | biArεnnâ | gusts of wind |
+| L | bLA/taRæLi | derogatory word for unmarried women/bullshit |
 | Lh | KÀLhi/kàLhâ ra mundh | panic/source of all problems | 
-| R | haRaend: | foul odor |
-| Rh | kaRhAi | embroidery |
+| R | haRænd/chÀR | foul odor/close the door |
+| Rh | chÀRh | offer to deity |
 | l | lU~N | salt |
-| lh | lhahhaN | garlic |
+| lh | lhâhhaN/lhuRUrâ | garlic/fallen |
 | r | drA | river |
-| rh | rhaeurâ | left |
+| rh | rhεurâ | left |
