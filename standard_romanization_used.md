@@ -135,8 +135,6 @@
 | h | hAR | month of âshAR |
 | H | HAR | garden next to a home |
 
-# word hAR (garden next to home) and HAR the month of ashad have some difference in how h is pronounced same with hikkaR(peel) and HikkaR(chest)
-
 ### 3. Approximants, Laterals, & Rhotics
 
 | Symbol | Examples | Meaning |

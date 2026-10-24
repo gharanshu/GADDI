@@ -1,23 +1,28 @@
-gaddi: western pahadi dialect sal valley 
-1. so amm khanda(he mango eats - he eats mango )
-2. so amà khanda(from root amm + ha amà mango is, so is thrid person he/she/they/it remote deixis that person remote )
-3. tini amm khau (tini is also root for third person remote dexis along with so but for diff split version this means he ate mango as a matter of factely he ate a mango like he just ate a mango and i am saying saying saying it))
-4. tini amm khaura(he has eaten a mango (in his life atleast))
-5. tini amà khaura(he has eaten a mango (more emphatic version of tini amm khaura oh can you blv it hes eaten a mango! or simly recollecting near past me stating he ate an mango i saw him like if somewhat asked me what did he eat  i would use this or say why sint he hungry i would say he has already eaten a mango all this can be applied to last sentence also so eyah just emphatic difference i would say)
-6. tini dottae amm khaNa (dottae tommorow he tommorow mango will eat - he will eat a mango tom definitely)
-7. so amm khalla (he will eat mango most likely he should but i dont gaurantee if he will for sure )
-8. amm na khainda ( literally mango not able-to-eat pragmatics mango cannot be eaten weather its the ability of speaker or mango is bigger than universe and speakr cant finish it or its speakers will)
-9. amm na khaiNa ( litearlly mango not eat-will=not-happen pragmatics i wont be able to eat this mango more its not that i lack the ability its like i am already full or just not feeling it def diff form khainda which is about ability)
-10. amm khaila? (literally mango able-to-futrue = will i be able to eat mango?)
-11. amm kha (eat mango)
-12. amm khA (eat mango please for plural or formal)
-12.5 amm khA so (may he eat mango)
-13. amm khala (feed mango)
-14. amm khalA(plural of khala)
-15. amm khalàINa nIyae( mango able to feed not - i am unable to feed mangoes)
-16. amm khalaila (will i be able to feed them mango)
-17. amm khalau (did they feed you mango in near past)
-18. amm khalaura (did they feed you mango ever?)
-idk so many girls i cant even write them all 
-19. amm khANa? ( wanna eat mango) 
+# verb: EAT (root: *khà*)
+## language: Gaddi; dialect: sAl
+| Form | meaning | example | meaning | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| **1.** khà | eat | khà | eat! | direct informal command |
+| **2.** khA | eat | khA | eat please! | formal request or command to plural listeners |
+| khA | eat | rajji karε roTTi khA so | may he eat to his heart's content | wish |
+| **3.** khandâ | eats | au~ amm: khandâ | i eat mango | habit or a fact |
+| khandi | eats | amm: nIn khandi e | they are not eating mango | habit or a fact (plural feminine or formal) |
+| khandε | eats | amm: nInæ khandε e | they/he(formal) are not eating mango | habit or a fact (plural masc or formal) |
+| **4.** khau | ate | tini amm: khau | he ate the mango | describing recent past fact |
+| **5.** khaurâ | has eaten | tini amm: khaurâ | he has eaten mango | may be recent or true fact in general regardless of how long is has past could mean he has eaten mango atleast once in his life |
+| **6.**  khANâ | will eat | tini amm: khANâ | he will eat mango | future fact |
+| **7.** khallâ | will eat | so amm: khallâ | he will eat mango | future hunch |
+| **8.** khεìndâ/khaìndâ | able to eat | mu~ thau~ amm: nâ khεìndε | I am unable to eat mango | I dislike them or am allergic to them |
+| **9.** | khεìNâ/khaìNâ | able to eat | mu~ thau~ amm: nâ khεìNâ | i wont be able to eat the mango | i don't want to right now/ i'm already full |
+| **10.** | khεìlâ/khaìlâ | mu~ thau~ amm: nâ khεìlâ | wont I be able to eat the mango | future question |
+| **11.** | khalâ | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
+| **12** | khεI | amm: khεI go  | i ate the mango | i had no control, impulsively or by a supernatural cause beyong my control |
+| **extra spoken features** khandâ | eats | au~ àmâ khandâ | i am eating a mango | happening as i speak(amm: + hâ -> àmâ) |
+| khandi | eats | (so) amhìn khandi | (they) are eating mangoes | present, being described by an observed(amm: + hinn -> amhìn) |
+| khandε | eats | àmnæ khandε | they/he(formal) are eating the mango/mongoes | present action, plural or formal (amm: + hinnæ - àmnæ)|
+| khaurâ | has eaten | tini àmâ khaura | he has eaten a mango | more like can you blv he's eaten a mango? more emphatic |
+
+
+
+
 
