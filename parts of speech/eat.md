@@ -21,7 +21,7 @@
 | **14** khAi læ | eat later | amm: khAi læ piccæ | eat the mango later | advice |
 | **14.** khalâ | feed  | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
 | **extra spoken features** khandâ | eats | au~ àmâ khandâ | i am eating a mango | happening as i speak(amm: + hâ -> àmâ) |
-| khandi | eats | (so) amhìn khandi | (they) are eating mangoes | present, being described by an observed(amm: + hinn -> amhìn) |
+| khandi | eats | (so) amìn khandi | (they) are eating mangoes/mangoes are eating(if so is not used) | present, being described by an observed(amm: + hinn -> amhìn) |
 | khandε | eats | àmnæ khandε | they/he(formal) are eating the mango/mongoes | present action, plural or formal (amm: + hinnæ - àmnæ)|
 | khaurâ | has eaten | tini àmâ khaura | he has eaten a mango | more like can you blv he's eaten a mango? more emphatic |
 

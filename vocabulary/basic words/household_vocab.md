@@ -77,4 +77,6 @@
 | bagRi | field(the horizontal land of step-fields) |
 | bIR | fields(the vertical zone of each step) |
 | na~tOR | field(special for orchards) |
-| kòli | field(special for rice) |
+| kòlhi | field(special for rice) |
+| khaLu | type of a field |
+| nantOR | a type of major field |
