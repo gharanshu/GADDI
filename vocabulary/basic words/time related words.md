@@ -92,3 +92,21 @@
 | aho | this year |
 | agli | next year |
 | naragli | the year after that |
+
+## 6. words for time
+| words | Meaning | example | translation |
+| :--- | :--- | :--- | :---- |
+| kAl | time | kAl Ae terε | you'r time has come(pragmatically dont do bs or i will whoop you) |
+| ghaRi | one unit of time | dui ghaRi bahA~ kari lεndæ | let us rest for 2 minutes(for some time) |
+| ghaRiA~ | in a moment of time | ---  | --- |
+| hAN | one moment | ak hANâ bhALi læ | wait one moment (for me) |
+| bEl | flow of time | --- | --- |
+| ubEl | late | ubEl bhui gI hεllæ A nIæ | its been quite some time hasnt he come yet |
+| sabEl | early | dottæ sabEllâ uThi bhuæ | wake up early tomorrow |
+| kubEl | inauspiciuos moment | --- | --- |
+| TÆm | loan from english time | TÆm kε bhUâ | what's the time |
+| kuTÆm | bad/inauspicious time | --- | --- |
+| suTÆm | good/auspicious time | --- | --- |
+| baTÆm | off/weird/wrong time | baTæmεNε chali A | you've come at an awkward time |
+| bakt | loan from persian waqt | baktâ chali pε abæ tu | while the time is still right you should start moving |
+| baktâ-bElæ | whithin the time/while the time is still right | --- | --- |
