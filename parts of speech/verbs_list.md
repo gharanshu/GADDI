@@ -1,9 +1,19 @@
 # LIST OF VERBS in wetsern pahadi gaddi, sal dialect
 | Verb | Meaning | Example | Translation | Notes |
+| :--- | :--- | :--- | :--- | :--- |
 | ukæ | climb up | ett mat ukæ | don't climb up here |
+| uTk: | gallop/jump | kaRiâ uTkUrâ | where are you dilly-dallying off too |
+| chAL | jump | chAL mAr | jump |
 | os: | climb down | inmae os | climb down from here |
+| chuRkh | fall | chuRkhi go | it fell | 
 | ucâ | pick up | esio ucâ | pick this up |
 | thæ | put | bhuiñâ thεi dæ | put (it) down |
+| gà: | sing | ghIt gà: | sing a song |
+| nac: | dance | nacNOg laga| dance fest has started |
+| ro | cry | mat ro | dont cry |
+| hâs | laugh | hâs mat | don't laught |
+| chæR | happy | chæRI go | he became happy |
+| khij | tired | khijI gacchindâ | like to get tired form this work |
 | apaR | bring it down from above | tæccio apaR | bring the suitcase down |
 | khà | eat | roTTi khà | eat food |
 | pì | drink | pANi pì | drink water |
@@ -37,7 +47,7 @@
 | bal | tell | tujju balluâ kardâ hællε | i am just saying right now(dont force me to act) |
 | hæd | call | tesio hæddi laiA | go you all and call him here |
 | ae | come | iRi ae | come here |
-| gâ | go | ott gâ | go there |
+| gâ/gacchâ | go | ott gâ | go there |
 | aNN | bring | e aNi dIæ | bring me this thing later |
 | kaDh | made to exit | bAr kaDh esio | move him outside |
 | luR | fall/stumble | luRi go | he fell |
@@ -47,6 +57,7 @@
 | banh | tie | rakhRi banhA | tie the rAkhi |
 | baN | make | baNi go | it is made |
 | chik | pull | esio chik | pull this |
+| taN | strecth | jangâ tANi lεndâ | let me just stretch my legs |
 | tOp | find | munju tOp | find me |
 | præc: | squeeze | nimmu præc | squeeze the lemons |
 | bhAL | wait | bhALi læ | wait for (me) |

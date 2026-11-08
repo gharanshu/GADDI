@@ -92,7 +92,7 @@
 | **Retroflex** | - | L | $L^h$ | R | $R^h$ |
 | **Dental / Alveolar** | - | l | $l^h$ | r | $r^h$ |
 
-
+### unvoiced breathy palatal plosive: c(h) 
 ### 1. The Plosives & Affricates
 
 | Symbol | Examples | Meaning |
@@ -102,6 +102,7 @@
 | g | gachUrâ | went |
 | gh | ghA | injury |
 | c | caur | 4 |
+| c(h) | uc(h)εurâ | haughty |
 | ch | chæL | beautiful |
 | j | jâng: | leg |
 | jh | jhuDDu | popcorn maker |
