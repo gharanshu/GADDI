@@ -17,9 +17,12 @@
 | **10.** khεìlâ/khaìlâ | able to eat | mu~ thau~ amm: nâ khεìlâ | wont I be able to eat the mango | future question |
 | **11**  khεI |accidently eaten | amm: khεI go  | i ate the mango | i had no control, impulsively or by a supernatural cause beyong my control |
 | **12**  khAε | eat later | amm: khaε piccæNε | eat the mango some time later | future order or advice |
-| **13**  khANhA laurâ | is eating rn | amm: khANhA laura | mango is being eaten rn | am eating and will continue eating |
-| **14** khAi læ | eat later | amm: khAi læ piccæ | eat the mango later | advice |
-| **14.** khalâ | feed  | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
+| **13** roTTi khau~/khAn aun/asæ | may i/we eat food | permission or wish |
+| **14**  khANhA laurâ | is eating rn | amm: khANhA laura | mango is being eaten rn | am eating and will continue eating |
+| **15** khAi læ | eat later | amm: khAi læ piccæ | eat the mango later | advice |
+| **16** khalâ | feed  | amm: khalâ munju | feed me mango | khà -> khalâ eat to feed every single of above can be applied to kha as in khalA, khalandâ, khalau, khalaurâ etc. |
+| khaneo ha halle munjgu
+khanda ha , khaura ha, khAi dhai , khAi khAi, khei dhei , kheiNa dheinA, 
 | **extra spoken features** khandâ | eats | au~ àmâ khandâ | i am eating a mango | happening as i speak(amm: + hâ -> àmâ) |
 | khandi | eats | (so) amìn khandi | (they) are eating mangoes/mangoes are eating(if so is not used) | present, being described by an observed(amm: + hinn -> amhìn) |
 | khandε | eats | àmnæ khandε | they/he(formal) are eating the mango/mongoes | present action, plural or formal (amm: + hinnæ - àmnæ)|
