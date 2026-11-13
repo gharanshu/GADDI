@@ -9,3 +9,5 @@
 | khanda | khandi | khandæ | khεinda | khεindi | khεindæ | khalanda | khalandi | khalandæ| kalεinda | kalεindi | kalεindæ |
 | khaura | khauri | khauræ | khεura | khεuri | khεuræ | khalaura | khalauri | khalauræ | khaleura | khaleuri | khaleuræ |
 | khAÆ | | | | | | | | | | | |
+khua khuai khuari khualla khuaNi 
+kheu

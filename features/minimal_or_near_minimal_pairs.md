@@ -2,36 +2,40 @@
 
 | Pair | Gaddi | English |
 | :--- | :--- | :--- |
-| **1** | baNai | make |
+| **1** | baNAi | make |
 | | bhanAi | break |
 | | banhAi | tie |
 | **2** | pAr | across |
-| | PAr | comb |
+| | pàr | comb |
 | **3** | bAr | day |
-| | BAr | outside |
+| | bàr | outside |
 | **4** | hing | horns |
-| | Hing | sniff |
+| | hìng | sniff |
 | **5** | ghA | injury |
-| | GhA | grass |
+| | ghà | grass |
 | **6** | sanjh | evening |
 | | sanj: | prasAd/offering(to deity) |
 | **7** | helki | little (feminine) |
 | | heLki: | rabid |
-| **8** | nAErA~ | in canal |
-| | nhaerA | darkness |
-| **9** | baN | forest |
-| | Bann | tie |
-| | bhan: | break | 
-| **10** | mei~yae | solely by me |
-| | mhei~yae | by the buffalo |
-| **11** | dassA | tell me |
-| | das^hA | show me |
-| **12** | haR: | rotten |
+| **8** | nærâ~ | in canal |
+| | nhÆrâ | darkness |
+| **9** | baN: | forest |
+| | bàN | make |
+| | bành | tie |
+| | ban: | oak |
+| | bhan: | break(to break) | 
+| **10** | mεi~æ | solely by me |
+| | mhεi~ae | by the buffalo |
+| **11** | dassâ | tell me |
+| | das(h)à | show me |
+| **12** | HàR | rotten |
 | | hàR: | swept away (by a river) |
 | | har: | every/each | 
 | | hàr: | yes |
-| **13** | bhaeR | sheep |
-| | BHaeR | fence |
+| | hAR | month of ashAR |
+| | HAR | lawn/garden next to home |
+| **13** | bhεR: | sheep |
+| | bhε'R | fence |
 
 ## examples
 
